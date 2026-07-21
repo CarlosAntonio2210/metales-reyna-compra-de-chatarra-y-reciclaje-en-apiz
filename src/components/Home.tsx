@@ -98,8 +98,8 @@ export const Home = () => {
               <div className="hidden sm:block w-px h-8 bg-blue-800"></div>
               <div className="flex items-center gap-4 bg-blue-950/40 px-4 py-2 rounded-xl border border-blue-800/50 backdrop-blur-sm">
                 <span className="text-blue-200 font-semibold tracking-wide">SÍGUENOS:</span>
-                <a href="https://www.facebook.com/share/1HUaQG1PhF/?mibextid=wwXIfr" className="bg-blue-800/80 hover:bg-blue-600 text-white p-2 rounded-lg transition-all shadow-md hover:-translate-y-1" aria-label="Facebook"><Facebook size={20} /></a>
-                <a href="https://www.instagram.com/reynarecuperadora?igsh=djZ6NXdiaG42Y2V6&utm_source=qr" className="bg-blue-800/80 hover:bg-pink-600 text-white p-2 rounded-lg transition-all shadow-md hover:-translate-y-1" aria-label="Instagram"><Instagram size={20} /></a>
+                <a href="https://www.facebook.com/profile.php?id=61592047799343&mibextid=wwXIfr&rdid=MGaKXX5V8ziAUTmv&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1HUaQG1PhF%2F%3Fmibextid%3DwwXIfr#" className="bg-blue-800/80 hover:bg-blue-600 text-white p-2 rounded-lg transition-all shadow-md hover:-translate-y-1" aria-label="Facebook"><Facebook size={20} /></a>
+                <a href="https://www.instagram.com/reynarecuperadora?igsh=djZ6NXdiaG42Y2V6&utm_source=qrhttps://www.instagram.com/reynarecuperadora?igsh=djZ6NXdiaG42Y2V6&utm_source=qr" className="bg-blue-800/80 hover:bg-pink-600 text-white p-2 rounded-lg transition-all shadow-md hover:-translate-y-1" aria-label="Instagram"><Instagram size={20} /></a>
                 <a href="https://www.tiktok.com/@recuperadora.dmet?_r=1&_t=ZS-988evx7SFYj" className="bg-blue-800/80 hover:bg-slate-700 text-white p-2 rounded-lg transition-all shadow-md hover:-translate-y-1" aria-label="TikTok"><TikTokIcon size={20} /></a>
               </div>
             </div>

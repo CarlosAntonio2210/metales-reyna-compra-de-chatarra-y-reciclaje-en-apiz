@@ -31,7 +31,7 @@ export const Layout = ({ children }: { children: React.ReactNode }) => {
             <span className="hidden md:inline">✓ Pago Inmediato</span>
             <span className="hidden md:inline">✓ Facturación</span>
             <div className="flex gap-4 items-center ml-2 border-l border-blue-800 pl-4">
-              <a href="https://www.facebook.com/share/1HUaQG1PhF/?mibextid=wwXIfr" className="bg-blue-800/50 hover:bg-blue-600 text-blue-200 hover:text-white p-1.5 rounded-md transition-all shadow-sm" aria-label="Facebook"><Facebook size={18} /></a>
+              <a href="https://www.facebook.com/profile.php?id=61592047799343&mibextid=wwXIfr&rdid=MGaKXX5V8ziAUTmv&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1HUaQG1PhF%2F%3Fmibextid%3DwwXIfr#" className="bg-blue-800/50 hover:bg-blue-600 text-blue-200 hover:text-white p-1.5 rounded-md transition-all shadow-sm" aria-label="Facebook"><Facebook size={18} /></a>
               <a href="https://www.instagram.com/reynarecuperadora?igsh=djZ6NXdiaG42Y2V6&utm_source=qr" className="bg-blue-800/50 hover:bg-pink-600 text-blue-200 hover:text-white p-1.5 rounded-md transition-all shadow-sm" aria-label="Instagram"><Instagram size={18} /></a>
               <a href="https://www.tiktok.com/@recuperadora.dmet?_r=1&_t=ZS-988evx7SFYj" className="bg-blue-800/50 hover:bg-slate-700 text-blue-200 hover:text-white p-1.5 rounded-md transition-all shadow-sm" aria-label="TikTok"><TikTokIcon size={18} /></a>
             </div>
@@ -124,7 +124,7 @@ export const Layout = ({ children }: { children: React.ReactNode }) => {
               </div>
               <p className="text-sm mb-6">Empresa líder en Apizaco dedicada al reciclaje, compra y venta de chatarra, cartón y metales. Comprometidos con el medio ambiente y el mejor servicio.</p>
               <div className="flex gap-4">
-                <a href="https://www.facebook.com/share/1HUaQG1PhF/?mibextid=wwXIfr" className="bg-slate-800 p-2 rounded-full text-slate-400 hover:text-white hover:bg-blue-600 transition-all" aria-label="Facebook"><Facebook size={20} /></a>
+                <a href="https://www.facebook.com/profile.php?id=61592047799343&mibextid=wwXIfr&rdid=MGaKXX5V8ziAUTmv&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1HUaQG1PhF%2F%3Fmibextid%3DwwXIfr#" className="bg-slate-800 p-2 rounded-full text-slate-400 hover:text-white hover:bg-blue-600 transition-all" aria-label="Facebook"><Facebook size={20} /></a>
                 <a href="https://www.instagram.com/reynarecuperadora?igsh=djZ6NXdiaG42Y2V6&utm_source=qr" className="bg-slate-800 p-2 rounded-full text-slate-400 hover:text-white hover:bg-pink-600 transition-all" aria-label="Instagram"><Instagram size={20} /></a>
                 <a href="https://www.tiktok.com/@recuperadora.dmet?_r=1&_t=ZS-988evx7SFYj" className="bg-slate-800 p-2 rounded-full text-slate-400 hover:text-white hover:bg-slate-700 transition-all" aria-label="TikTok"><TikTokIcon size={20} /></a>
               </div>
